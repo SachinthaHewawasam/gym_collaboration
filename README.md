@@ -1,4 +1,4 @@
-Certainly! Here are some features that you may want to consider including in your gym collaboration application:
+Here are some features that you may want to consider including in your gym collaboration application:
 
 User profiles: Allow users to create profiles and provide information about their fitness goals, interests, and location. This will help them find compatible workout partners.
 
